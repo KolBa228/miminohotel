@@ -1,0 +1,35 @@
+:root {
+    --main-text-color: #D9D9D9;
+    --black-text-color: #1E1E1E;
+    --white-background-color: #FBFBFB;
+    --dark-background-color: #191F21;
+}
+
+ul {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    margin: 0;
+}
+
