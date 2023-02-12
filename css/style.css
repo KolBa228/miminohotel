@@ -61,7 +61,6 @@ ul {
     background-position: center;
     background-size: cover;
     height: 720px;
-    width: 1440px;
 }
 
 .container {
@@ -80,6 +79,7 @@ ul {
     line-height: 1.1;
     color: var(--grey-text);
     font-family: 'Playfair Display';
+    margin-top: 25px;
 }
 
 .logo-link:hover {
@@ -296,7 +296,6 @@ ul {
             background-position: center;
             background-size: cover;
             height: 1035px;
-            width: 1440px;
             margin-top: 64px;
 }
 
