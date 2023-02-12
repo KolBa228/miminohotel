@@ -6,6 +6,10 @@
     --mancerat: 'Montserrat';
 }
 
+body {
+    background-color: var(--white-background-color);
+}
+
 a {
     text-decoration: none;
 }
@@ -222,6 +226,8 @@ ul {
     background-color: #272D2F;
     margin-top: 64px;
     text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 
 .p-us-s {
@@ -233,4 +239,47 @@ ul {
     margin-left: 150px;
     margin-right: 150px;
     margin-top: 145px;
+}
+
+.galary {
+    background-color: var(--white-background-color);
+    margin-right: 115px;
+    margin-left: 115px;
+}
+
+.galary-div-f {
+    display: flex;
+}
+
+.galary-div-s {
+    display: flex;
+    background-color: var(--dark-background-color);
+}
+
+.title-galary {
+    font-family: 'Playfair Display';
+    font-weight: 900;
+    font-size: 84px;
+    line-height: 140%;
+    letter-spacing: 0.05em;
+    padding-bottom: 40px;
+}
+
+.gal-div {
+    margin-top: 32px;
+}
+
+.gal-text {
+    text-align: center;
+    margin-top: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.gal-text-d {
+    margin-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    color: var(--main-text-color);
 }
