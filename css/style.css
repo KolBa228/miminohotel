@@ -57,7 +57,6 @@ ul {
 
 .background-div {
     background-image: url(../image/backgroundpicture.jpeg);
-    background-size: no-repeat;
     background-position: center;
     background-size: cover;
     height: 720px;
@@ -292,7 +291,6 @@ ul {
 
 .pict-bottom {
         background-image: url(../image/backgroundpicture.jpeg);
-            background-size: no-repeat;
             background-position: center;
             background-size: cover;
             height: 1035px;
