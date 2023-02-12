@@ -291,10 +291,10 @@ ul {
 
 .pict-bottom {
         background-image: url(../image/backgroundpicture.jpeg);
-            background-position: center;
-            background-size: cover;
-            height: 1035px;
-            margin-top: 64px;
+        background-position: center;
+        background-size: cover;
+        height: 1035px;
+        margin-top: 64px;
 }
 
 .title-conctacts {
